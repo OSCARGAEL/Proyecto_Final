@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre
+comment1.target=Jugador(java.lang.String)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=
+comment11.target=int\ lanzarUnDado()
+comment2.params=caras
+comment2.target=void\ inicializarJugador(java.lang.String[])
+comment3.params=
+comment3.target=void\ lanzarTodosDados()
+comment4.params=dadosSeleccionados
+comment4.target=void\ lanzarDadosSeleccionados(boolean[])
+comment5.params=
+comment5.target=Dado[]\ getDados()
+comment6.params=
+comment6.target=int\ getPuntos()
+comment7.params=
+comment7.target=int\ getTiradasDisponibles()
+comment8.params=
+comment8.target=void\ reiniciarTiradas()
+comment9.params=
+comment9.target=void\ agregarPunto()
+numComments=12

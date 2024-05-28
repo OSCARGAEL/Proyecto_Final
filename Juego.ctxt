@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=jugadores\ rondas\ carasDado
+comment1.target=Juego(java.util.ArrayList,\ int,\ java.lang.String[])
+comment10.params=
+comment10.target=Jugador\ determinarGanadorJuego()
+comment11.params=modo
+comment11.target=void\ mostrarInstrucciones(int)
+comment2.params=
+comment2.target=void\ determinarPrimerJugador()
+comment3.params=
+comment3.target=void\ jugarRonda()
+comment4.params=
+comment4.target=Jugador\ determinarGanadorRonda()
+comment5.params=dados
+comment5.target=int\ evaluarPuntuacion(Dado[])
+comment6.params=jugadoresEmpatados
+comment6.target=Jugador\ desempatar(java.util.List)
+comment7.params=jugadoresEmpatados\ maxValor
+comment7.target=Jugador\ desempatarEmpate(java.util.List,\ int)
+comment8.params=arreglo\ valor
+comment8.target=int\ encontrarIndice(java.lang.String[],\ java.lang.String)
+comment9.params=
+comment9.target=void\ iniciarJuego()
+numComments=12

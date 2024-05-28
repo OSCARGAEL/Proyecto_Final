@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JuegoAcciones
+comment1.params=
+comment1.target=void\ determinarPrimerJugador()
+comment2.params=
+comment2.target=void\ jugarRonda()
+comment3.params=
+comment3.target=void\ iniciarJuego()
+numComments=4

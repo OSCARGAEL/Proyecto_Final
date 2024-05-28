@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=JugadorAcciones
+comment1.params=
+comment1.target=void\ lanzarTodosDados()
+comment2.params=dadosSeleccionados
+comment2.target=void\ lanzarDadosSeleccionados(boolean[])
+comment3.params=
+comment3.target=void\ reiniciarTiradas()
+numComments=4
